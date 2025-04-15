@@ -42,14 +42,14 @@ Jira and Confluence management
 JavaScript, SQL, HTML, CSS, Java
 
 ### Tools and platforms
-Postman, newman, Zephyr, TestRail, Jira, Confluence, Git, Gitlab, Jenkins, Docker, Kubernetes, Rancher, Snowflake, Azure, JFrog, Jmeter, Gherkin, cucumber, Selenium, Cypress, SpecFlow, Robot Framework
+Postman, newman, Zephyr/Xray, TestRail, Jira, Confluence, Git, Gitlab, Jenkins, Docker, Kubernetes, Rancher, Snowflake, Azure, JFrog, Jmeter, Gherkin, cucumber, Selenium, Cypress, SpecFlow, Robot Framework
 
 ## Languages
 Fully fluent in French and English
 
 ## Work Experience
 
-`2023-2024`
+`2023-2025`
 __RONA__ (as a Levio consultant)
 - _Lead QA_
 -  
