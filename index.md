@@ -61,7 +61,7 @@ __RONA__ (as a Levio consultant)
 - • Prepare releases: manage branches and merges, stakeholder approvals, and deployment planning.
 - • Provide the QA engineer with business rules and technical requirements for end-to-end test automation.
 - • Manually test the platform’s UIs and APIs, including their interactions with databases and other external APIs.
-- • automated Postman tests, and maintain them.
+- • Run, monitor and maintain the automated Postman tests.
 
 `2022 (9 mois)`
 __Banque Nationale__ (as a Levio consultant)
